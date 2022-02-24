@@ -1,3 +1,6 @@
+[![Header](https://github.com/syahir-ar98/syahir-ar98/blob/5fe0813aadc260a744e27e2611c9effeed82e184/images/github-banner.png "Header")]
+
+
 - 👋 Hi, I’m @syahir98-AR
 - 👀 I’m interested in anything related to technology
 - 🌱 I’m currently learning PHP, JavaScript, Nodejs, Python and Flutter
